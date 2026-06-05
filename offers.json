@@ -112,5 +112,11 @@
         "description": "Advanced Telegram Protection + Anti Spam + Auto Moderation + Channel Security",
         "price": "149",
         "date": "2026-06-05 11:07"
+    },
+    {
+        "title": "AEGIS ULTIMATE SECURITY",
+        "description": "Advanced Pentesting + Telegram Shield + Anti Spam + Auto Moderation + API Security System",
+        "price": "299",
+        "date": "2026-06-05 11:09"
     }
 ]
